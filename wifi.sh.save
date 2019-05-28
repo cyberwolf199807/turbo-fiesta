@@ -1,0 +1,12 @@
+#!/user/bin/env bash
+echo "Turining the promiscous mode on"
+airmon-ng start wlan0 >> para.txt
+fuss1=$(sed -n 9,10p para.txt | egrep [0-9] | tr -dc '0-9')
+fuss=$(sed -n 7,8p para.txt | egrep [0-9] | tr -dc '0-9')
+echo "void processes to be killed: $fuss"
+echo "void processes to be killed: $fuss1"
+kill $fuss
+kill $fuss1
+echo "killed successfully"
+sudo airmon-ng wlan0mon >> para1.txt
+

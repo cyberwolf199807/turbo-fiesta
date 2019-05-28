@@ -1,0 +1,6 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+D2:F8:8C:35:54:1C, 2019-05-28 09:05:09, 2019-05-28 09:05:18, 13,  65, WPA2, CCMP, PSK, -19,       29,        0,   0.  0.  0.  0,  10, yumion1234, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+

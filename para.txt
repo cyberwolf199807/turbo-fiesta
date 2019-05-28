@@ -1,0 +1,48 @@
+
+Found 2 processes that could cause trouble.
+Kill them using 'airmon-ng check kill' before putting
+the card in monitor mode, they will interfere by changing channels
+and sometimes putting the interface back in managed mode
+
+  PID Name
+  665 NetworkManager
+  666 wpa_supplicant
+
+PHY	Interface	Driver		Chipset
+
+phy0	wlan0mon	rtl8723be	Realtek Semiconductor Co., Ltd. RTL8723BE PCIe Wireless Network Adapter
+
+
+Found 2 processes that could cause trouble.
+Kill them using 'airmon-ng check kill' before putting
+the card in monitor mode, they will interfere by changing channels
+and sometimes putting the interface back in managed mode
+
+  PID Name
+  665 NetworkManager
+  666 wpa_supplicant
+
+PHY	Interface	Driver		Chipset
+
+phy0	wlan0mon	rtl8723be	Realtek Semiconductor Co., Ltd. RTL8723BE PCIe Wireless Network Adapter
+
+Run it as root
+
+Found 2 processes that could cause trouble.
+Kill them using 'airmon-ng check kill' before putting
+the card in monitor mode, they will interfere by changing channels
+and sometimes putting the interface back in managed mode
+
+  PID Name
+  665 NetworkManager
+  666 wpa_supplicant
+
+PHY	Interface	Driver		Chipset
+
+phy0	wlan0mon	rtl8723be	Realtek Semiconductor Co., Ltd. RTL8723BE PCIe Wireless Network Adapter
+
+Run it as root
+Run it as root
+Run it as root
+Run it as root
+Run it as root
